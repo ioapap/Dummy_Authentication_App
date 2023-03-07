@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dummy_Authentication_App/static/css/main.632d3665.css",
+    "main.js": "/Dummy_Authentication_App/static/js/main.09f69a8e.js",
+    "index.html": "/Dummy_Authentication_App/index.html",
+    "main.632d3665.css.map": "/Dummy_Authentication_App/static/css/main.632d3665.css.map",
+    "main.09f69a8e.js.map": "/Dummy_Authentication_App/static/js/main.09f69a8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.632d3665.css",
+    "static/js/main.09f69a8e.js"
+  ]
+}
